@@ -1,7 +1,4 @@
-﻿using System.Diagnostics.Metrics;
-using System.Security.Cryptography;
-
-namespace TestApp
+﻿namespace TestApp
 {
     internal class Program
     {
